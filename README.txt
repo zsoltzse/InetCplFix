@@ -6,6 +6,6 @@
 
 [ES] Después de descomprimir el archivo "InetCplFix.bat", ejecútalo .
 
+[PT-BR] Depois de extrair o arquivo "InetCplFix.bat", é só executar ele.
 
 [If you want to add more language, PM on discord to ▌►ZsoleszKING◄▐#5972, ID:374592416533053451.]
-
